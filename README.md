@@ -1,7 +1,7 @@
 # work-hunt
 Work hunt content for FullStackLeo
 ___
-This project servers as a work diary of my efforts to get more remote full stack developer jobs.
+This project serves as a work diary of my efforts to get more remote full stack developer jobs.
 
 **Strategy:**
 1. Apply to remote jobs on Indeed, Monster, ZipRecruiter, LinkedIn, GitHub, WeWorkRemotely, and RemoteOK using job role targed resumes
